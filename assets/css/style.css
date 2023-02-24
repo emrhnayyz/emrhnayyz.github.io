@@ -10,16 +10,16 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #1eccc3;
+  color: #010303;
 }
 
 a {
-  color: #14dd5e;
+  color: #4d05db;
   text-decoration: none;
 }
 
 a:hover {
-  color: #37b3ed;
+  color: #500404;
   text-decoration: none;
 }
 
@@ -78,7 +78,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #230675;
   overflow-y: auto;
 }
 
@@ -121,8 +121,8 @@ h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #149ddd;
-  color: #fff;
+  background: #dd14b8;
+  color: #e02424;
   text-decoration: none;
 }
 
